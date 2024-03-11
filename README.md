@@ -13,22 +13,29 @@ This project implements five distinct search algorithms, each offering a differe
 ### Breadth-First Search (BFS)
 
 Explores the network level by level, ensuring the shortest path is found in an unweighted graph.
+![ID-DFS Example](https://github.com/ThimmareddySirisha/Search-Methods/blob/main/BFS.png "BFS Algorithm")
 
 ### Depth-First Search (DFS)
 
 Dives deep into the network, exploring as far down a branch as possible before backtracking. Efficient for exhaustive searches.
+![ID-DFS Example](https://github.com/ThimmareddySirisha/Search-Methods/blob/main/DFS.png "DFS Algorithm")
+
 
 ### Iterative Deepening Depth-First Search (ID-DFS)
 
 Combines the benefits of DFS and BFS, using depth as a limiting factor to systematically explore all possible paths.
+![ID-DFS Example](https://github.com/ThimmareddySirisha/Search-Methods/blob/main/ID-DFS.png "ID-DFS Algorithm")
+
 
 ### Best-First Search
 
 A heuristic-driven approach that expands the most promising node based on a specific rule or heuristic, such as geographic proximity.
+![ID-DFS Example](https://github.com/ThimmareddySirisha/Search-Methods/blob/main/BestFirst.png "Best-First Algorithm")
 
 ### A* Search
 
 An advanced search algorithm that uses both the cost to reach a node and an estimate of the cost to reach the goal, making it efficient for finding the shortest path.
+![ID-DFS Example](https://github.com/ThimmareddySirisha/Search-Methods/blob/main/A-.png "A* Algorithm")
 
 
 ## Results and Analysis
